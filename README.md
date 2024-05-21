@@ -1,7 +1,5 @@
 # Hello, I'm Thanh Huyen! 🌸
 
-![Cycling amidst cherry blossoms](https://your-image-link-here.jpg)
-
 ## About Me
 I'm a Data Analyst with a passion for turning data into meaningful insights. I enjoy working with SQL and Python to analyze data and solve complex problems.
 
@@ -9,13 +7,6 @@ I'm a Data Analyst with a passion for turning data into meaningful insights. I e
 - **Data Analytics:** Expert in analyzing and visualizing data to derive actionable insights.
 - **Programming Languages:** Proficient in SQL and Python.
 - **Tools:** Experienced with various data analysis tools and libraries such as Pandas, NumPy, and Matplotlib.
-
-## Projects
-### Notable Projects
-While I have many projects in my portfolio, here are a few that I'm particularly proud of:
-
-- **[Project Name 1](#)**: Brief description of your project.
-- **[Project Name 2](#)**: Brief description of your project.
 
 ## Interests
 Outside of data analytics, I have a passion for cycling. There's nothing like the thrill of racing down the road, especially through scenic routes filled with cherry blossoms.
@@ -31,4 +22,4 @@ I'm always looking to learn and grow. My current goals include:
 
 ---
 
-![Cycling amidst cherry blossoms](https://your-image-link-here.jpg)
+![Cycling amidst cherry blossoms](https://img.freepik.com/premium-zdjecie/dwa-rowery-pod-rozowym-drzewem-sakura-drzewa-wisni-w-parku_165383-426.jpg?w=1380)
