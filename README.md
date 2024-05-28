@@ -21,4 +21,5 @@ After utilizing Power BI tool to filter and analyze data, I found notable insigh
   - Post-IPO companies had the most layoffs (195,409, 55% of total).
 
 Overall, the global layoff wave began in early 2022, driven by economic crises, cost-cutting, and organizational restructuring, particularly impacting companies in the Post-IPO stage.
+
 <img width="790" alt="Screenshot 2024-05-28 163606" src="https://github.com/thanhhuyentran32/Global-Workforce-Reductions/assets/170299467/a2262e25-3b3c-485d-b6c4-d4357dc9dec4">
