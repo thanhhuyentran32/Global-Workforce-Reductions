@@ -17,7 +17,7 @@ After utilizing Power BI tool to filter and analyze data, I found notable insigh
   - **Highest layoffs:** Retail (12.14%), Consumer, Transport, Food, Finance.
   - **Lowest layoffs:** Manufacturing, Aviation, Law, AI.
   - **Major companies affected:** Amazon (18,000), Google (12,000), Meta (11,000).
-- **Company Status:**
+- **Company Stage:**
   - Post-IPO companies had the most layoffs (195,409, 55% of total).
 
-Overall, the global layoff wave began in early 2022, driven by economic crises, cost-cutting, and organizational restructuring, particularly impacting companies in the Post-IPO phase.
+Overall, the global layoff wave began in early 2022, driven by economic crises, cost-cutting, and organizational restructuring, particularly impacting companies in the Post-IPO stage.
