@@ -1,25 +1,23 @@
-# Hello, I'm Thanh Huyen! 🌸
+## Global Workforce Reductions from 2020 to 2023
 
-## About Me
-I'm a Data Analyst with a passion for turning data into meaningful insights. I enjoy working with SQL and Python to analyze data and solve complex problems.
+After utilizing Power BI tool to filter and analyze data, I found notable insights on global layoffs:
 
-## My Skills
-- **Data Analytics:** Expert in analyzing and visualizing data to derive actionable insights.
-- **Programming Languages:** Proficient in SQL and Python.
-- **Tools:** Experienced with various data analysis tools and libraries such as Pandas, NumPy, and Matplotlib.
+- **Survey Sample:** 1,471 companies participated.
+- **Layoff Peaks:**
+  - 2022: 127,452 layoffs
+  - 2023: 158,178 layoffs
+  - Comparatively, 2020 had 60,960 layoffs and 2021 had 6,490 layoffs.
+- **Monthly Trends:**
+  - No seasonal pattern observed.
+  - Significant spikes in November 2022 (49,556 layoffs) and January 2023 (66,579 layoffs), over 8 times the monthly average.
+- **Geographical Impact:**
+  - **Top countries:** USA (70.76%), India (6.87%), Germany (5.97%), Sweden (3.22%), UK (2.73%).
+  - **Top cities:** SF Bay Area (36.29%), Seattle, New York City, Bengaluru, Stockholm.
+- **Industry Impact:**
+  - **Highest layoffs:** Retail (12.14%), Consumer, Transport, Food, Finance.
+  - **Lowest layoffs:** Manufacturing, Aviation, Law, AI.
+  - **Major companies affected:** Amazon (18,000), Google (12,000), Meta (11,000).
+- **Company Status:**
+  - Post-IPO companies had the most layoffs (195,409, 55% of total).
 
-## Interests
-Outside of data analytics, I have a passion for cycling. There's nothing like the thrill of racing down the road, especially through scenic routes filled with cherry blossoms.
-
-## Contact
-Feel free to reach out to me on [LinkedIn](#) or [Twitter](#) for collaboration or just to say hi!
-
-## Goals
-I'm always looking to learn and grow. My current goals include:
-- Enhancing my machine learning skills.
-- Contributing to open source data science projects.
-- Engaging with the data analytics community to share knowledge and learn from others.
-
----
-
-![Cycling amidst cherry blossoms](https://img.freepik.com/premium-zdjecie/dwa-rowery-pod-rozowym-drzewem-sakura-drzewa-wisni-w-parku_165383-426.jpg?w=1380)
+Overall, the global layoff wave began in early 2022, driven by economic crises, cost-cutting, and organizational restructuring, particularly impacting companies in the Post-IPO phase.
